@@ -90,7 +90,8 @@ body {
 }
 
 #code .comments {
-	color: #3f7f5f;
+	/*color: #3f7f5f;*/
+	color: red;
 }
 
 #errorMsg {
